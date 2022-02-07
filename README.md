@@ -27,15 +27,25 @@ git config --add gitflow.multi-hotfix true
 
 ##
 build:    alterações que afetam o sistema de build ou dependências externas
+
 ci:       mudanças em arquivos e scripts de configuração de CI
+
 chore:    outras mudanças que não modificam src ou arquivos de teste
+
 docs:     alterações apenas na documentação
+
 feat:     um novo recurso
+
 fix:      uma correção de bug
+
 perf:     uma mudança de código que melhora o desempenho
+
 refactor: uma alteração de código que não corrige um bug nem adiciona um recurso
+
 style:    alterações que não afetam a funcionalidade do código
+
 test:     adicionar testes ausentes ou corrigir testes existentes
+
 ##
 
 *** Eslint Fix ***
